@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main_div{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+    
+}
+
+
+
+.upper_div{
+    
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.clearfix{
+    clear: both;
+}
+
+
+.phone{
+
+    width: 20%;
+    height: 350px;
+    float: left;
+    
+    margin: 3px;
+    border: solid teal 1px;
+    padding: 20px;
+    
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: auto;
+    
+}
+span{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+.first_price{
+    color: green;
+    font-weight: 900;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.second_price{
+    color: red;
+    font-weight: 500;
+    font-size: 14px;
+    
+}
+.cart{
+    width: 210px;
+    background-color: blue;
+    color: white;
+}
+
+.fav{
+    border: blue solid 2px;
+    width: 40px;
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+  
+}
+svg{
+    width: 20px;
+    height: 20px;
+   
+}
+
+
+img{
+    width: 250px;
+    height: 150px;
+    
+    
+}
+
+
